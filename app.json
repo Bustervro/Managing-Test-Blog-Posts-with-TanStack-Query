@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "crud-query-app",
+    "slug": "crud-query-app",
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
+}
